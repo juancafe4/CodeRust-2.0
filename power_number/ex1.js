@@ -40,3 +40,5 @@ const power = function(x, n) {
 console.log(power(2, 5));
 console.log(power(5, 4));
 console.log(power(6, 4));
+
+console.log(power(2, -2));
